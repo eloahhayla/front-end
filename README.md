@@ -1,2 +1,2 @@
-# front-endig
+# front-end
 atividades de front end
