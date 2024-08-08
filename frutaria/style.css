@@ -1,3 +1,4 @@
+
 body{
     background-color: #33804f;
     margin-left: 20%;
@@ -40,3 +41,4 @@ body{
     font-size: 15px;
     color: #ffffff;
     }
+    <canvas id="myCanvas" width="200" height="100"></canvas>
