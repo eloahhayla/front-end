@@ -1,22 +1,21 @@
 body{
-    background-color: #00bf62;
+    background-color: #33804f;
     margin-left: 20%;
     margin-right: 20%;
-    border: 4px ridge #15230b;
+    border: 4px ridge #2a5010;
     padding: 10px 10px 10px 10px;
     }
     h1.titulo{
-    color: #065325;
+    color: #2a5010;
     font-family: Verdana, Geneva, Tahoma;
     font-size: 30pt;
     text-align: center;
     text-shadow: 1px 1px 1px #000000;
     }
     img{
-        border: 4px solid #15230b; 
+        border: 1px solid #15230b; 
         margin-left: 2%;
         margin-right: 10px;
-        border-radius: 50%;
     }
     h2.sub-titulo{
     color: #ffffff;
