@@ -1,0 +1,36 @@
+table{
+    border-collapse: collapse;
+    border: 2px solid rgb(206, 70, 145);
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+}
+  
+caption{
+    caption-side: bottom;
+    padding: 10px;
+    font-weight: bold;
+} 
+thead tfoot{
+    background-color: rgb(230, 116, 195);
+}
+  
+th{
+    border: 1px solid rgb(224, 101, 169);
+    padding: 8px 10px;
+}
+td{
+    color: rgb(0, 0, 0);
+}
+td:last-of-type{
+    text-align: center;
+}
+tbody tr{
+    background-color: rgb(238, 162, 204);
+}
+tfoot th{
+    text-align: right;
+  }
+  tfoot td {
+    font-weight: bold;
+  }
