@@ -1,54 +1,44 @@
-.formulario {
-     width: 400px; 
-     padding: 30px; 
-     border:1px solid #ccc;
-}
-.formulario p { 
-    width: 100%; 
-    font-size: 1.5em; 
-    color: rgb(44, 95, 110);
-}
-.field {
-    width: 100%; 
-    margin: 15px 0;
-    color: rgb(44, 95, 110);
-}
-.field label, .field span { 
-    padding-left: 10px; 
-    font-size: 1.1em; 
-    display: block; 
-    width: 100%;}
-.radiobox label { 
-    width: auto; 
-    display: inline-block; 
-}
-input[type=text], input[type=email], textarea {
-     width: 100%; 
-     padding-left: 10px; 
-     height: 30px; 
-     line-height: 30px;
-     border-radius: 15px; 
-     border: 1px solid #ccc; 
-     outline: none; 
-}
-input#nao { 
-    margin-left: 30px; 
-}
-textarea { 
-    line-height: 20px; 
-    padding: 10px; 
-    height: 90px; 
-    resize: none; 
-}
-input[type=submit] { 
-    display: block; 
-    background-color: #bdf0ff; 
-    height: 35px; 
-    border: none; 
-    outline: 0; 
-    cursor: pointer;
-    width: 100px; 
-    margin: 0 auto; 
-    text-align: center; 
-    border-radius: 10px; 
-}
+
+body{
+    background-color: #33804f;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 4px ridge #2a5010;
+    padding: 10px 10px 10px 10px;
+    }
+    h1.titulo{
+    color: #2a5010;
+    font-family: Verdana, Geneva, Tahoma;
+    font-size: 30pt;
+    text-align: center;
+    text-shadow: 1px 1px 1px #000000;
+    }
+    img{
+        border: 1px solid #15230b; 
+        margin-left: 2%;
+        margin-right: 10px;
+    }
+    h2.sub-titulo{
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma;
+    text-shadow: 1px 1px 1px #000000;
+    text-align: center;
+    font-weight: bold;
+    }
+    li.menu{
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma;
+    text-shadow: 1px 1px 1px #000000;
+    text-align: center;
+    font-weight: bold;
+    }
+    p.menu-texto{
+    font-family: Verdana, Geneva, Tahoma;
+    }
+    p{
+    font-family: Verdana;
+    margin-left: 2em;margin-right: 10px;
+    font-size: 15px;
+    color: #ffffff;
+    }
+    <canvas id="myCanvas" width="200" height="100"></canvas>
